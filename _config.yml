@@ -1,0 +1,11 @@
+# basic options
+title: Your awesome title
+author: LexaFayte
+email: alexkabak@live.ca
+description: A wonderful site
+twitter_username: LexaFayte
+github_username:  LexaFayte
+
+# Build settings
+markdown: kramdown
+theme: midnight

@@ -180,5 +180,5 @@ function init() {
     //    position: myLatLng,
     //    map: map,
     //    icon: image
-    });
+    //});
 }

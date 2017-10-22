@@ -15,8 +15,6 @@ footer: Alexandra Kabak
 social:
   - title: twitter
     url: https://twitter.com/LexaFayte
-  - title: linkedin
-    url: https://www.linkedin.com/in/alexandrakabak/
 #  - title: facebook
 #    url:
 #  - title: stack-overflow
@@ -25,6 +23,8 @@ social:
 #    url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/LexaFayte
+  - title: linkedin
+    url: https://www.linkedin.com/in/alexandrakabak/
 #  - title: resume
 #    url: https://drive.google.com/file/d/0B4v6hS2wiEy0RUhiS21Lazk1NzQ/view?usp=sharing
 
